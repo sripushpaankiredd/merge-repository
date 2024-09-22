@@ -1,2 +1,6 @@
-This is a test file modified in virtualmachine.
-Updated in virtualmache.
+<<<<<<< HEAD
+=======
+This is a test file created ..
+And I modified it.
+
+>>>>>>> newbranch
